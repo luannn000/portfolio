@@ -10,7 +10,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route index element={<Home />} />
-        <Route path='/projetos' element={ <Projetos /> } />
+        <Route path='/projetos/' element={ <Projetos /> } />
       </Routes>
     </HashRouter>
   )
