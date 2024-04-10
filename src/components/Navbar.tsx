@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className='navbar bg-primary text-primary-content'>
       <div className='navbar-start'>
-        <strong className='text-lg mr-2'>Luan Coelho</strong>
+        <strong className="text-lg mr-2">Luan</strong>
         <strong className="mr-2">•</strong>
         <strong className="mr-2 underline underline-offset-2"><NavLink to="/">Início</NavLink></strong>
         <strong className="underline underline-offset-2"><NavLink to="/projetos">Projetos</NavLink></strong>
